@@ -1,2 +1,5 @@
 streamlit
 sqlalchemy
+pandas
+plotly.express
+plotly.graph_objects
